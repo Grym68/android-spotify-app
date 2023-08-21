@@ -4,5 +4,5 @@ import co.uk.android.spotify.data.api.AccessToken
 
 interface SpotifyHandler {
 
-    suspend fun fetchAccessToken(): Result<AccessToken>
+    suspend fun fetchAccessToken(grantType: String, clientId: String, clientSecret: String): Result<AccessToken>
 }
