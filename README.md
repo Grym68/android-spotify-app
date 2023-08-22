@@ -7,7 +7,7 @@ check list:
  - [ ] Add a Contributing file
  - [x] Add a LICENSE file
  - [ ] Configure Issues templates
-	- [ ] Add basic templates
+	- [x] Add basic templates
 	- [ ] Add custom templates
  - [x] Configure Pull request templates
  - [ ] Use Labels
